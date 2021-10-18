@@ -99,3 +99,107 @@ Received Import Request.
 Start importing Assets/Script/General/CameraFollow.cs using Guid(3057f6a05e1f2ec4cb5242aaa87834c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd28c9b07d2aade7d2d10f8ae9ef6e734') in 0.004879 seconds
   Import took 0.008766 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 100.933747 seconds.
+  path: Assets/Shader
+  artifactKey: Guid(86cbca697aee5d043b9463205a453a2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shader using Guid(86cbca697aee5d043b9463205a453a2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c14f47b2313ea8299da3b87721239b4a') in 0.011321 seconds
+  Import took 0.015310 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 18.036333 seconds.
+  path: Assets/Shader/SpriteStanderd.shader
+  artifactKey: Guid(82d373e20f94fe54dbc0637a6ad97542) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shader/SpriteStanderd.shader using Guid(82d373e20f94fe54dbc0637a6ad97542) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf4d70feae70b37f30549d0d5c67fc44') in 0.024006 seconds
+  Import took 0.027090 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000570 seconds.
+  path: Assets/Shader/SpriteStanderd.shader
+  artifactKey: Guid(82d373e20f94fe54dbc0637a6ad97542) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shader/SpriteStanderd.shader using Guid(82d373e20f94fe54dbc0637a6ad97542) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf4d70feae70b37f30549d0d5c67fc44') in 0.006075 seconds
+  Import took 0.009894 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 38.217570 seconds.
+  path: Assets/Shader/SpriteStanderd.shader
+  artifactKey: Guid(82d373e20f94fe54dbc0637a6ad97542) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shader/SpriteStanderd.shader using Guid(82d373e20f94fe54dbc0637a6ad97542) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4085c4f50652235404e0885801d4dfe4') in 0.005467 seconds
+  Import took 0.008491 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 50.265965 seconds.
+  path: Assets/Material/SpriteMatereal
+  artifactKey: Guid(cc2a548823ce545418a9b03332076b96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material/SpriteMatereal using Guid(cc2a548823ce545418a9b03332076b96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de82d668017e0f43fceaae1205050456') in 0.008170 seconds
+  Import took 0.017763 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 18.583207 seconds.
+  path: Assets/Material/SpriteMatereal/StanderdSprite.mat
+  artifactKey: Guid(1db5d1bbab5fa184995c9e806f24871c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material/SpriteMatereal/StanderdSprite.mat using Guid(1db5d1bbab5fa184995c9e806f24871c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '90d7f62ce3d477296cb075137396c877') in 0.103734 seconds
+  Import took 0.106793 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001878 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.29 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.851 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.32 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1544 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 94.3 MB.
+System memory in use after: 93.8 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2050.
+Total: 2.208800 ms (FindLiveObjects: 0.193400 ms CreateObjectMapping: 0.066900 ms MarkObjects: 1.505400 ms  DeleteObjects: 0.441700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 40.623458 seconds.
+  path: Assets/Material/SpriteMatereal/StanderdSprite.mat
+  artifactKey: Guid(1db5d1bbab5fa184995c9e806f24871c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material/SpriteMatereal/StanderdSprite.mat using Guid(1db5d1bbab5fa184995c9e806f24871c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14e51e7f33efbd08c3cd959d63f4a82b') in 0.063580 seconds
+  Import took 0.066524 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001491 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.30 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.893 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.30 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1544 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 94.4 MB.
+System memory in use after: 94.4 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2055.
+Total: 2.389600 ms (FindLiveObjects: 0.256600 ms CreateObjectMapping: 0.060200 ms MarkObjects: 1.993100 ms  DeleteObjects: 0.077500 ms)
+
